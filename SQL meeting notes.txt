@@ -1,7 +1,0 @@
-Reporting table presents total data/goal is to have report sends data to speaker table
-
-Speaker table has to be rediesiged to accept session, 
-
-importent: repoert 
-
-Speaker that repopulates infomation.
