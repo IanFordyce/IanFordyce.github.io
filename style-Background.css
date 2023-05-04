@@ -1,0 +1,67 @@
+:root
+{
+--Gray:#a0a2a4;
+--white:#fbf8f8;
+
+
+}
+
+.header-name
+{
+
+padding: 10px;
+
+}
+
+.header
+{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: bottom;
+}
+
+.wrapper
+{
+    height: 100%;
+
+}
+
+.content
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: bottom;
+}
+.grid-container
+{
+display: grid;
+grid-template-columns: repeat(1, 3fr);
+grid-gap: 5rem;
+padding: .1rem;
+justify-content: center;
+height: 200px;
+}
+
+.box
+{
+
+background-color: var(--Gray);
+color: var(--White);
+padding: .5rem;
+border-radius: 5px;
+width: 800px;
+height: 250px;
+}
+
+.box-title
+{
+color: var(--White);
+font-size: 1.5rem;
+text-align: center;
+margin-bottom: 0rem;
+padding-top: 0rem;
+height: 20px;
+}
+
